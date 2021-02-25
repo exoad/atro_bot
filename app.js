@@ -26,4 +26,4 @@ bot.on('message', message => {
 
 
 const { TOKEN } = require('./config.json');
-bot.login(`Nzk4NjcwMTE3OTc0MDQ4ODE5.X_4Zgg.ROnvrH950ZXc3CdPdj9u28XW97c`);
+bot.login(`${TOKEN}`);
