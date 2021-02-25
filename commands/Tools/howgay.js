@@ -14,7 +14,7 @@ module.exports = {
           return rand[Math.floor(Math.random()*rand.length)];
       }
       const embed = {
-        "description": "You are " + doRandHT() + "% gay",
+        "description": ":rainbow_flag: You are " + doRandHT() + "% gay",
         "color": "RANDOM",
         "title": `wow`,
       }
@@ -26,3 +26,4 @@ module.exports = {
   }
 }
 }
+
