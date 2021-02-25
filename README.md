@@ -5,4 +5,7 @@ Based on the Yttrius framework. A Discord bot for one of my server groups ;D
 
 I don't know if I want to use Java or a C++ library :/
 
+**Note**
+I do not make the command ideas, the server group members do :/
+
         Currently a work in progress! ;D
